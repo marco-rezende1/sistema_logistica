@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1757556980 source:c:\users\peixoto\documents\trabalho algii\gerenciador_logistica\sistema_logistica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+

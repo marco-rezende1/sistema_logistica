@@ -1,0 +1,47 @@
+RELATORIO DE ENTREGAS POR CLIENTE
+==================================
+
+INFORMACOES DO CLIENTE:
+----------------------
+ID: 1
+Nome: Joao Silva Santos
+CPF/CNPJ: 123.456.789-00
+Telefone: (11) 99999-1111
+Email: joao@email.com
+Endereco: Rua das Flores, 123, Centro, Sao Paulo
+
+Data de geracao: Sep 14 2025
+
+ENTREGAS DO CLIENTE:
+===================
+
+ENTREGA #1
+-----------
+ID da Entrega: 1
+Data de Coleta: 15/01/24
+Data Prevista: 20/01/24
+Data Realizada: 18/01/24
+Status: Entregue
+Localizacao Atual: Rio de Janeiro
+Motorista: Carlos Motorista
+Veiculo: Van Grande
+Valor do Frete: R$ 150.00
+
+INFORMACOES DA CARGA:
+--------------------
+ID: 1
+Descricao: Eletrodomesticos - Geladeira
+Peso: 45.50 kg
+Dimensoes: 60x60x180 cm
+Tipo de Material: Eletrodomesticos
+Valor Declarado: R$ 2500.00
+Origem: Sao Paulo
+Destino: Rio de Janeiro
+Observacoes: Fragil - Manter em pe
+
+========================================
+
+RESUMO:
+=======
+Total de entregas do cliente: 1
+Total de entregas cadastradas: 10

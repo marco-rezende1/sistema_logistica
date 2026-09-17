@@ -1,0 +1,13 @@
+RELATORIO DE ENTREGAS POR MOTORISTA
+====================================
+
+Motorista: joao
+Data de geracao: Sep 14 2025
+
+ENTREGAS ENCONTRADAS:
+====================
+
+RESUMO:
+=======
+Total de entregas do motorista 'joao': 0
+Total de entregas cadastradas: 10
